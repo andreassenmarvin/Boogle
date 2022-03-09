@@ -32,5 +32,5 @@ Boolean - True if word is valid for the given board
 Examples
 board	word	Return Value
 [["E","A","R","A"],["N","L","E","C"],["I","A","I","S"],["B","Y","O","R"]]	"EAR"	true
-[["E","A","R","A"],["N","L","E","C"],["I","A","I","S"],["B","Y","O","R"]]
+[["E","A","R","A"],["N","L","E","C"],["I","A","I","S"],["B","Y","O","R"]]	"CEREAL"	false
 ```
